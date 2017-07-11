@@ -1,0 +1,24 @@
+id
+	-1
+music
+	town-pravoka.ogg
+background
+	laaalalalala.png
+parallax
+	grass1.png
+move areas
+	435 255 401 178
+	387 388 505 52
+	373 239 525 23
+inside/out areas
+npc pos
+	568 63 0 0
+npc
+	36 36	resources/pictures/sprites/characters/ff1-psp-sprites.png/Monster 2
+npc text
+	ohlala je suis en retard
+	blo
+npc sound
+	green.ogg
+	hauvent.ogg
+	retard.ogg

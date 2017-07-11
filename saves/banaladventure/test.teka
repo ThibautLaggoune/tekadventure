@@ -1,0 +1,25 @@
+id
+	1
+music
+	town-pravoka.ogg
+background
+	sky.jpg
+parallax
+	town.png
+move areas
+	4 471 1269 64
+inside/out areas
+	4 470 43 63 0 0
+	1232 471 43 67 0 0
+npc pos
+	500 310 800 310
+	400 210 400 210
+npc
+	72 72	resources/pictures/sprites/icones/chara.png
+	72 72	resources/pictures/sprites/icones/monsters.png
+npc text
+	Ohlala je suis en retard !
+	splurt  oooh,,,
+npc sound
+	resources/sound/sounds/retard.ogg
+	resources/sound/sounds/green.ogg

@@ -1,0 +1,11 @@
+id
+	0
+music
+	menu-music.ogg
+background
+	world-map.png
+nodes
+	0 2400 2500	Commencement	1 3
+	0 2450 2400	Cornelia	0
+	1 2082 1756	Temple du Chaos	3
+	0 2300 2350	Zup	0 1
